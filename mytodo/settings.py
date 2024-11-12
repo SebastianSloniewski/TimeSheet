@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-2(d=560t@3mnv-rxdd-@fwc)h2g244_wmp4$xapt1yr&qpp$4q
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ 'localhost', '127.0.0.1', '.mytodo.pl']
+ALLOWED_HOSTS = [ 'https://slon09.pythonanywhere.com', 'localhost', '127.0.0.1', '.mytodo.pl']
 
 
 # Application definition
